@@ -1,0 +1,3005 @@
+[
+  {
+    "class": "尋花探木",
+    "spend_hours": "36",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-03",
+    "date_end": "2021-05-19",
+    "recursive": {
+      "weekday": "星期三",
+      "start": "08:00:00",
+      "end": "16:00:00"
+    }
+  },
+  {
+    "class": "薩克斯風C",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-06",
+    "date_end": "2021-06-26",
+    "recursive": {
+      "weekday": "星期六",
+      "start": "08:00:00",
+      "end": "10:00:00"
+    }
+  },
+  {
+    "class": "藥用植物野外研習",
+    "spend_hours": "36",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-08",
+    "date_end": "2021-05-24",
+    "recursive": {
+      "weekday": "星期一",
+      "start": "08:30:00",
+      "end": "11:30:00"
+    }
+  },
+  {
+    "class": "步道生態旅遊",
+    "spend_hours": "36",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-06",
+    "date_end": "2021-05-22",
+    "recursive": {
+      "weekday": "星期六",
+      "start": "08:30:00",
+      "end": "11:30:00"
+    }
+  },
+  {
+    "class": "和太鼓進階",
+    "spend_hours": "35",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-06",
+    "date_end": "2021-06-05",
+    "recursive": {
+      "weekday": "星期六",
+      "start": "08:30:00",
+      "end": "11:00:00"
+    }
+  },
+  {
+    "class": "穴道養生法~生態之旅 ",
+    "spend_hours": "51",
+    "price": "3600",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-03",
+    "date_end": "2021-06-23",
+    "recursive": {
+      "weekday": "星期三",
+      "start": "08:30:00",
+      "end": "11:30:00"
+    }
+  },
+  {
+    "class": "穴道養生法~悠遊山林",
+    "spend_hours": "51",
+    "price": "3600",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-08",
+    "date_end": "2021-06-28",
+    "recursive": {
+      "weekday": "星期一",
+      "start": "08:30:00",
+      "end": "11:30:00"
+    }
+  },
+  {
+    "class": "薩克斯風A",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-05",
+    "date_end": "2021-06-25",
+    "recursive": {
+      "weekday": "星期五",
+      "start": "08:30:00",
+      "end": "10:30:00"
+    }
+  },
+  {
+    "class": "生活美語速成",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-03",
+    "date_end": "2021-06-23",
+    "recursive": {
+      "weekday": "星期三",
+      "start": "09:00:00",
+      "end": "11:00:00"
+    }
+  },
+  {
+    "class": "從電影談人生智慧",
+    "spend_hours": "51",
+    "price": "3600",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-02",
+    "date_end": "2021-06-22",
+    "recursive": {
+      "weekday": "星期二",
+      "start": "09:00:00",
+      "end": "12:00:00"
+    }
+  },
+  {
+    "class": "生活調色盤",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-02",
+    "date_end": "2021-06-22",
+    "recursive": {
+      "weekday": "星期二",
+      "start": "09:00:00",
+      "end": "11:00:00"
+    }
+  },
+  {
+    "class": "快樂學易經",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-02",
+    "date_end": "2021-06-22",
+    "recursive": {
+      "weekday": "星期二",
+      "start": "09:00:00",
+      "end": "11:00:00"
+    }
+  },
+  {
+    "class": "輕鬆學好韓語中級2",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-05",
+    "date_end": "2021-06-25",
+    "recursive": {
+      "weekday": "星期五",
+      "start": "09:00:00",
+      "end": "11:00:00"
+    }
+  },
+  {
+    "class": "觀光英語FUN鬆學1",
+    "spend_hours": "36",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-02",
+    "date_end": "2021-06-01",
+    "recursive": {
+      "weekday": "星期二",
+      "start": "09:00:00",
+      "end": "11:30:00"
+    }
+  },
+  {
+    "class": "國際素養與媒體識讀",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-06",
+    "date_end": "2021-06-26",
+    "recursive": {
+      "weekday": "星期六",
+      "start": "09:00:00",
+      "end": "11:00:00"
+    }
+  },
+  {
+    "class": "手工皂DIY-B",
+    "spend_hours": "51",
+    "price": "3600",
+    "place": "嘉義市永利二街22號",
+    "date_start": "2021-03-04",
+    "date_end": "2021-06-24",
+    "recursive": {
+      "weekday": "星期四",
+      "start": "09:00:00",
+      "end": "12:00:00"
+    }
+  },
+  {
+    "class": "自然農法分享",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市世賢路四段164號中信房屋旁邊巷道進入",
+    "date_start": "2021-03-02",
+    "date_end": "2021-06-22",
+    "recursive": {
+      "weekday": "星期二",
+      "start": "09:00:00",
+      "end": "11:00:00"
+    }
+  },
+  {
+    "class": "自然農法分享",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市世賢路四段164號中信房屋旁邊巷道進入",
+    "date_start": "2021-03-02",
+    "date_end": "2021-06-22",
+    "recursive": {
+      "weekday": "星期二",
+      "start": "09:00:00",
+      "end": "11:00:00"
+    }
+  },
+  {
+    "class": "香草栽培與利用",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市世賢路四段164號中信房屋旁邊巷道進入",
+    "date_start": "2021-03-05",
+    "date_end": "2021-06-25",
+    "recursive": {
+      "weekday": "星期五",
+      "start": "09:00:00",
+      "end": "11:00:00"
+    }
+  },
+  {
+    "class": "趙孟頫~秋聲賦 (行書)",
+    "spend_hours": "51",
+    "price": "3600",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-08",
+    "date_end": "2021-06-28",
+    "recursive": {
+      "weekday": "星期一",
+      "start": "09:00:00",
+      "end": "12:00:00"
+    }
+  },
+  {
+    "class": "書法美學~魏碑基礎班",
+    "spend_hours": "51",
+    "price": "3600",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-03",
+    "date_end": "2021-06-23",
+    "recursive": {
+      "weekday": "星期三",
+      "start": "09:00:00",
+      "end": "12:00:00"
+    }
+  },
+  {
+    "class": "色鉛筆繪畫A",
+    "spend_hours": "51",
+    "price": "3600",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-08",
+    "date_end": "2021-06-28",
+    "recursive": {
+      "weekday": "星期一",
+      "start": "09:00:00",
+      "end": "12:00:00"
+    }
+  },
+  {
+    "class": "色鉛筆繪畫C",
+    "spend_hours": "51",
+    "price": "3600",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-02",
+    "date_end": "2021-06-22",
+    "recursive": {
+      "weekday": "星期二",
+      "start": "09:00:00",
+      "end": "12:00:00"
+    }
+  },
+  {
+    "class": "創意玩水彩A",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-04",
+    "date_end": "2021-06-24",
+    "recursive": {
+      "weekday": "星期四",
+      "start": "09:00:00",
+      "end": "11:00:00"
+    }
+  },
+  {
+    "class": "手機攝影中階二",
+    "spend_hours": "51",
+    "price": "3600",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-02",
+    "date_end": "2021-06-22",
+    "recursive": {
+      "weekday": "星期二",
+      "start": "09:00:00",
+      "end": "12:00:00"
+    }
+  },
+  {
+    "class": "手機行旅",
+    "spend_hours": "36",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-05",
+    "date_end": "2021-05-21",
+    "recursive": {
+      "weekday": "星期五",
+      "start": "09:00:00",
+      "end": "12:00:00"
+    }
+  },
+  {
+    "class": "杜牧 ~ 張好好詩 (行書)",
+    "spend_hours": "51",
+    "price": "3600",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-05",
+    "date_end": "2021-06-25",
+    "recursive": {
+      "weekday": "星期五",
+      "start": "09:00:00",
+      "end": "12:00:00"
+    }
+  },
+  {
+    "class": "手機攝影基礎班",
+    "spend_hours": "51",
+    "price": "3600",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-08",
+    "date_end": "2021-06-28",
+    "recursive": {
+      "weekday": "星期一",
+      "start": "09:00:00",
+      "end": "12:00:00"
+    }
+  },
+  {
+    "class": "手機攝影中階三",
+    "spend_hours": "51",
+    "price": "3600",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-03",
+    "date_end": "2021-06-23",
+    "recursive": {
+      "weekday": "星期三",
+      "start": "09:00:00",
+      "end": "12:00:00"
+    }
+  },
+  {
+    "class": "小品盆景創作B",
+    "spend_hours": "51",
+    "price": "3600",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-08",
+    "date_end": "2021-06-28",
+    "recursive": {
+      "weekday": "星期一",
+      "start": "09:00:00",
+      "end": "12:00:00"
+    }
+  },
+  {
+    "class": "手機攝影中階四",
+    "spend_hours": "51",
+    "price": "3600",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-04",
+    "date_end": "2021-06-24",
+    "recursive": {
+      "weekday": "星期四",
+      "start": "09:00:00",
+      "end": "12:00:00"
+    }
+  },
+  {
+    "class": "棒針編織",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-03",
+    "date_end": "2021-06-23",
+    "recursive": {
+      "weekday": "星期三",
+      "start": "09:00:00",
+      "end": "11:00:00"
+    }
+  },
+  {
+    "class": "創意手工藝A班",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-04",
+    "date_end": "2021-06-24",
+    "recursive": {
+      "weekday": "星期四",
+      "start": "09:00:00",
+      "end": "11:00:00"
+    }
+  },
+  {
+    "class": "時尚金屬線編飾品A",
+    "spend_hours": "36",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-05",
+    "date_end": "2021-05-21",
+    "recursive": {
+      "weekday": "星期五",
+      "start": "09:00:00",
+      "end": "12:00:00"
+    }
+  },
+  {
+    "class": "時尚金屬線編飾品B",
+    "spend_hours": "36",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-06",
+    "date_end": "2021-05-22",
+    "recursive": {
+      "weekday": "星期六",
+      "start": "09:00:00",
+      "end": "12:00:00"
+    }
+  },
+  {
+    "class": "玩拼布繡小物",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-02",
+    "date_end": "2021-06-22",
+    "recursive": {
+      "weekday": "星期二",
+      "start": "09:00:00",
+      "end": "11:00:00"
+    }
+  },
+  {
+    "class": "簡易木工E",
+    "spend_hours": "51",
+    "price": "3600",
+    "place": "嘉義市中山路616號",
+    "date_start": "2021-03-04",
+    "date_end": "2021-06-24",
+    "recursive": {
+      "weekday": "星期四",
+      "start": "09:00:00",
+      "end": "12:00:00"
+    }
+  },
+  {
+    "class": "動手作經典包",
+    "spend_hours": "36",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-03",
+    "date_end": "2021-05-19",
+    "recursive": {
+      "weekday": "星期三",
+      "start": "09:00:00",
+      "end": "12:00:00"
+    }
+  },
+  {
+    "class": "養生瑜伽",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-02",
+    "date_end": "2021-06-22",
+    "recursive": {
+      "weekday": "星期二",
+      "start": "09:00:00",
+      "end": "11:00:00"
+    }
+  },
+  {
+    "class": "桌球基礎B",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義縣水上鄉水上村中正路189號",
+    "date_start": "2021-03-04",
+    "date_end": "2021-06-24",
+    "recursive": {
+      "weekday": "星期四",
+      "start": "09:00:00",
+      "end": "11:00:00"
+    }
+  },
+  {
+    "class": "楊家老架太極拳3B",
+    "spend_hours": "51",
+    "price": "3600",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-05",
+    "date_end": "2021-06-25",
+    "recursive": {
+      "weekday": "星期五",
+      "start": "09:00:00",
+      "end": "11:40:00"
+    }
+  },
+  {
+    "class": "藥膳茶飲話養生",
+    "spend_hours": "36",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-03",
+    "date_end": "2021-05-19",
+    "recursive": {
+      "weekday": "星期三",
+      "start": "09:00:00",
+      "end": "12:00:00"
+    }
+  },
+  {
+    "class": "健康體適能",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-02",
+    "date_end": "2021-06-22",
+    "recursive": {
+      "weekday": "星期二",
+      "start": "09:00:00",
+      "end": "11:00:00"
+    }
+  },
+  {
+    "class": "自家焙煎咖啡基礎",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市世賢路四段164號中信房屋旁邊巷道進入",
+    "date_start": "2021-03-08",
+    "date_end": "2021-06-07",
+    "recursive": {
+      "weekday": "星期一",
+      "start": "09:00:00",
+      "end": "11:30:00"
+    }
+  },
+  {
+    "class": "天然創意果凍花",
+    "spend_hours": "36",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-02",
+    "date_end": "2021-05-18",
+    "recursive": {
+      "weekday": "星期二",
+      "start": "09:00:00",
+      "end": "12:00:00"
+    }
+  },
+  {
+    "class": "樂活韓食",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-04",
+    "date_end": "2021-06-24",
+    "recursive": {
+      "weekday": "星期四",
+      "start": "09:00:00",
+      "end": "11:00:00"
+    }
+  },
+  {
+    "class": "穴道養生DIY",
+    "spend_hours": "36",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-06",
+    "date_end": "2021-05-22",
+    "recursive": {
+      "weekday": "星期六",
+      "start": "09:00:00",
+      "end": "12:00:00"
+    }
+  },
+  {
+    "class": "口琴歡樂吹奏",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-04",
+    "date_end": "2021-06-24",
+    "recursive": {
+      "weekday": "星期四",
+      "start": "09:00:00",
+      "end": "11:00:00"
+    }
+  },
+  {
+    "class": "美麗人聲歌唱班A",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-04",
+    "date_end": "2021-06-24",
+    "recursive": {
+      "weekday": "星期四",
+      "start": "09:00:00",
+      "end": "11:00:00"
+    }
+  },
+  {
+    "class": "小提琴-緣起不滅(高階7)",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-03",
+    "date_end": "2021-06-23",
+    "recursive": {
+      "weekday": "星期三",
+      "start": "09:00:00",
+      "end": "11:00:00"
+    }
+  },
+  {
+    "class": "胡奏飛揚-二胡中階5",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-06",
+    "date_end": "2021-06-26",
+    "recursive": {
+      "weekday": "星期六",
+      "start": "09:00:00",
+      "end": "11:00:00"
+    }
+  },
+  {
+    "class": "戀練琴聲-二胡進階A班",
+    "spend_hours": "51",
+    "price": "3600",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-04",
+    "date_end": "2021-06-24",
+    "recursive": {
+      "weekday": "星期四",
+      "start": "09:00:00",
+      "end": "11:40:00"
+    }
+  },
+  {
+    "class": "活力動感舞蹈",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-03",
+    "date_end": "2021-06-23",
+    "recursive": {
+      "weekday": "星期三",
+      "start": "09:00:00",
+      "end": "11:00:00"
+    }
+  },
+  {
+    "class": "小提琴-聲聲不息(中階3)",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-04",
+    "date_end": "2021-06-24",
+    "recursive": {
+      "weekday": "星期四",
+      "start": "09:00:00",
+      "end": "11:00:00"
+    }
+  },
+  {
+    "class": "華夏美人-古典舞基礎",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市五顯街172號7樓2",
+    "date_start": "2021-03-04",
+    "date_end": "2021-06-24",
+    "recursive": {
+      "weekday": "星期四",
+      "start": "09:00:00",
+      "end": "11:00:00"
+    }
+  },
+  {
+    "class": "明日之星歌唱班",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-05",
+    "date_end": "2021-06-25",
+    "recursive": {
+      "weekday": "星期五",
+      "start": "09:00:00",
+      "end": "11:00:00"
+    }
+  },
+  {
+    "class": "小提琴-初試琴聲(基礎3)",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-05",
+    "date_end": "2021-06-25",
+    "recursive": {
+      "weekday": "星期五",
+      "start": "09:00:00",
+      "end": "11:00:00"
+    }
+  },
+  {
+    "class": "戀練琴聲-二胡基礎2",
+    "spend_hours": "51",
+    "price": "3600",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-03",
+    "date_end": "2021-06-23",
+    "recursive": {
+      "weekday": "星期三",
+      "start": "09:00:00",
+      "end": "11:40:00"
+    }
+  },
+  {
+    "class": "類國標單人拉丁&摩登",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-08",
+    "date_end": "2021-06-28",
+    "recursive": {
+      "weekday": "星期一",
+      "start": "09:00:00",
+      "end": "11:00:00"
+    }
+  },
+  {
+    "class": "聆聽古典閱讀經典",
+    "spend_hours": "35",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-06",
+    "date_end": "2021-06-05",
+    "recursive": {
+      "weekday": "星期六",
+      "start": "09:30:00",
+      "end": "12:00:00"
+    }
+  },
+  {
+    "class": "朗朗上口說英語中級4",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-04",
+    "date_end": "2021-06-24",
+    "recursive": {
+      "weekday": "星期四",
+      "start": "09:30:00",
+      "end": "11:30:00"
+    }
+  },
+  {
+    "class": "繪本賞析",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-08",
+    "date_end": "2021-06-28",
+    "recursive": {
+      "weekday": "星期一",
+      "start": "09:30:00",
+      "end": "11:30:00"
+    }
+  },
+  {
+    "class": "閱讀．走踏．嘉義學",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-02",
+    "date_end": "2021-06-01",
+    "recursive": {
+      "weekday": "星期二",
+      "start": "09:30:00",
+      "end": "12:00:00"
+    }
+  },
+  {
+    "class": "烏克麗麗輕鬆彈唱基礎B",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-03",
+    "date_end": "2021-06-23",
+    "recursive": {
+      "weekday": "星期三",
+      "start": "09:30:00",
+      "end": "11:30:00"
+    }
+  },
+  {
+    "class": "烏克街頭藝人班",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-05",
+    "date_end": "2021-06-25",
+    "recursive": {
+      "weekday": "星期五",
+      "start": "09:30:00",
+      "end": "11:30:00"
+    }
+  },
+  {
+    "class": "快樂陶笛",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-04",
+    "date_end": "2021-06-24",
+    "recursive": {
+      "weekday": "星期四",
+      "start": "09:30:00",
+      "end": "11:30:00"
+    }
+  },
+  {
+    "class": "綜合有氧舞蹈A",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-06",
+    "date_end": "2021-06-26",
+    "recursive": {
+      "weekday": "星期六",
+      "start": "09:30:00",
+      "end": "11:30:00"
+    }
+  },
+  {
+    "class": "快樂學電子琴基礎3",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-05",
+    "date_end": "2021-06-25",
+    "recursive": {
+      "weekday": "星期五",
+      "start": "09:30:00",
+      "end": "11:30:00"
+    }
+  },
+  {
+    "class": "輕鬆學電子琴中階4",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-02",
+    "date_end": "2021-06-22",
+    "recursive": {
+      "weekday": "星期二",
+      "start": "09:30:00",
+      "end": "11:30:00"
+    }
+  },
+  {
+    "class": "輕鬆學電子琴基礎4",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-04",
+    "date_end": "2021-06-24",
+    "recursive": {
+      "weekday": "星期四",
+      "start": "09:30:00",
+      "end": "11:30:00"
+    }
+  },
+  {
+    "class": "印度寶萊塢",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-05",
+    "date_end": "2021-06-25",
+    "recursive": {
+      "weekday": "星期五",
+      "start": "09:30:00",
+      "end": "11:30:00"
+    }
+  },
+  {
+    "class": "燃燒吧！拉丁熱舞",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-04",
+    "date_end": "2021-06-24",
+    "recursive": {
+      "weekday": "星期四",
+      "start": "09:30:00",
+      "end": "11:30:00"
+    }
+  },
+  {
+    "class": "箏愛一生B",
+    "spend_hours": "35",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-06",
+    "date_end": "2021-06-05",
+    "recursive": {
+      "weekday": "星期六",
+      "start": "09:30:00",
+      "end": "12:00:00"
+    }
+  },
+  {
+    "class": "輕鬆學電子琴中階1",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-03",
+    "date_end": "2021-06-23",
+    "recursive": {
+      "weekday": "星期三",
+      "start": "09:30:00",
+      "end": "11:30:00"
+    }
+  },
+  {
+    "class": "民謠吉他輕鬆彈唱基礎",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-08",
+    "date_end": "2021-06-28",
+    "recursive": {
+      "weekday": "星期一",
+      "start": "09:30:00",
+      "end": "11:30:00"
+    }
+  },
+  {
+    "class": "舞笛凝音~中國笛基礎4",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-03",
+    "date_end": "2021-06-23",
+    "recursive": {
+      "weekday": "星期三",
+      "start": "09:30:00",
+      "end": "11:30:00"
+    }
+  },
+  {
+    "class": "空靈天鼓基礎B",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-02",
+    "date_end": "2021-06-22",
+    "recursive": {
+      "weekday": "星期二",
+      "start": "09:30:00",
+      "end": "11:30:00"
+    }
+  },
+  {
+    "class": "即學即用日語高級班",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-05",
+    "date_end": "2021-06-25",
+    "recursive": {
+      "weekday": "星期五",
+      "start": "09:45:00",
+      "end": "11:45:00"
+    }
+  },
+  {
+    "class": "生活美語會話中級3",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-08",
+    "date_end": "2021-06-28",
+    "recursive": {
+      "weekday": "星期一",
+      "start": "10:00:00",
+      "end": "12:00:00"
+    }
+  },
+  {
+    "class": "國台語好歌歡樂唱",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-08",
+    "date_end": "2021-06-28",
+    "recursive": {
+      "weekday": "星期一",
+      "start": "10:00:00",
+      "end": "12:00:00"
+    }
+  },
+  {
+    "class": "薩克斯風B",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-06",
+    "date_end": "2021-06-26",
+    "recursive": {
+      "weekday": "星期六",
+      "start": "10:00:00",
+      "end": "12:00:00"
+    }
+  },
+  {
+    "class": "帶著陶笛去旅行進階A",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-08",
+    "date_end": "2021-06-28",
+    "recursive": {
+      "weekday": "星期一",
+      "start": "10:10:00",
+      "end": "12:10:00"
+    }
+  },
+  {
+    "class": "薩克斯風D",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-05",
+    "date_end": "2021-06-25",
+    "recursive": {
+      "weekday": "星期五",
+      "start": "10:30:00",
+      "end": "12:30:00"
+    }
+  },
+  {
+    "class": "歌仔戲訓練班",
+    "spend_hours": "36",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-06",
+    "date_end": "2021-06-26",
+    "recursive": {
+      "weekday": "星期六",
+      "start": "11:00:00",
+      "end": "17:00:00"
+    }
+  },
+  {
+    "class": "烏克麗麗紓壓彈唱基礎",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-05",
+    "date_end": "2021-06-25",
+    "recursive": {
+      "weekday": "星期五",
+      "start": "12:30:00",
+      "end": "14:30:00"
+    }
+  },
+  {
+    "class": "活力太鼓A",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-06",
+    "date_end": "2021-06-26",
+    "recursive": {
+      "weekday": "星期六",
+      "start": "13:00:00",
+      "end": "15:00:00"
+    }
+  },
+  {
+    "class": "樂活電影讀書會",
+    "spend_hours": "36",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-08",
+    "date_end": "2021-05-24",
+    "recursive": {
+      "weekday": "星期一",
+      "start": "13:30:00",
+      "end": "16:30:00"
+    }
+  },
+  {
+    "class": "朗朗上口說英語中級3",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-05",
+    "date_end": "2021-06-25",
+    "recursive": {
+      "weekday": "星期五",
+      "start": "13:30:00",
+      "end": "15:30:00"
+    }
+  },
+  {
+    "class": "朗朗上口說英語初級4",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-02",
+    "date_end": "2021-06-22",
+    "recursive": {
+      "weekday": "星期二",
+      "start": "13:30:00",
+      "end": "15:30:00"
+    }
+  },
+  {
+    "class": "即學即用日語初級2",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-05",
+    "date_end": "2021-06-25",
+    "recursive": {
+      "weekday": "星期五",
+      "start": "13:30:00",
+      "end": "15:30:00"
+    }
+  },
+  {
+    "class": "生活日語初級1",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-04",
+    "date_end": "2021-06-24",
+    "recursive": {
+      "weekday": "星期四",
+      "start": "13:30:00",
+      "end": "15:30:00"
+    }
+  },
+  {
+    "class": "生活之美基礎攝影Ⅱ",
+    "spend_hours": "51",
+    "price": "3600",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-02",
+    "date_end": "2021-06-22",
+    "recursive": {
+      "weekday": "星期二",
+      "start": "13:30:00",
+      "end": "16:30:00"
+    }
+  },
+  {
+    "class": "城鎮旅跡",
+    "spend_hours": "51",
+    "price": "3600",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-03",
+    "date_end": "2021-06-23",
+    "recursive": {
+      "weekday": "星期三",
+      "start": "13:30:00",
+      "end": "16:30:00"
+    }
+  },
+  {
+    "class": "生活之美基礎攝影Ⅰ",
+    "spend_hours": "51",
+    "price": "3600",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-08",
+    "date_end": "2021-06-28",
+    "recursive": {
+      "weekday": "星期一",
+      "start": "13:30:00",
+      "end": "16:30:00"
+    }
+  },
+  {
+    "class": "歐式花藝創作進階",
+    "spend_hours": "36",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-04",
+    "date_end": "2021-05-20",
+    "recursive": {
+      "weekday": "星期四",
+      "start": "13:30:00",
+      "end": "16:30:00"
+    }
+  },
+  {
+    "class": "歐式生活花藝與創作",
+    "spend_hours": "36",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-05",
+    "date_end": "2021-05-21",
+    "recursive": {
+      "weekday": "星期五",
+      "start": "13:30:00",
+      "end": "16:30:00"
+    }
+  },
+  {
+    "class": "歐洲多媒材拼貼藝術",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-02",
+    "date_end": "2021-06-22",
+    "recursive": {
+      "weekday": "星期二",
+      "start": "13:30:00",
+      "end": "15:30:00"
+    }
+  },
+  {
+    "class": "生活陶藝B",
+    "spend_hours": "51",
+    "price": "3600",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-02",
+    "date_end": "2021-06-22",
+    "recursive": {
+      "weekday": "星期二",
+      "start": "13:30:00",
+      "end": "16:30:00"
+    }
+  },
+  {
+    "class": "戀上陶藝A",
+    "spend_hours": "51",
+    "price": "3600",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-08",
+    "date_end": "2021-06-28",
+    "recursive": {
+      "weekday": "星期一",
+      "start": "13:30:00",
+      "end": "16:30:00"
+    }
+  },
+  {
+    "class": "生活陶藝C",
+    "spend_hours": "51",
+    "price": "3600",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-03",
+    "date_end": "2021-06-23",
+    "recursive": {
+      "weekday": "星期三",
+      "start": "13:30:00",
+      "end": "16:30:00"
+    }
+  },
+  {
+    "class": "精品咖啡產業博覽",
+    "spend_hours": "36",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-02",
+    "date_end": "2021-06-22",
+    "recursive": {
+      "weekday": "星期二",
+      "start": "13:30:00",
+      "end": "16:30:00"
+    }
+  },
+  {
+    "class": "快樂學薩克斯風基礎4",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-05",
+    "date_end": "2021-06-25",
+    "recursive": {
+      "weekday": "星期五",
+      "start": "13:30:00",
+      "end": "15:30:00"
+    }
+  },
+  {
+    "class": "繪本的萬千世界",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-03",
+    "date_end": "2021-06-23",
+    "recursive": {
+      "weekday": "星期三",
+      "start": "14:00:00",
+      "end": "16:00:00"
+    }
+  },
+  {
+    "class": "生活美語開口說基礎1",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-03",
+    "date_end": "2021-06-23",
+    "recursive": {
+      "weekday": "星期三",
+      "start": "14:00:00",
+      "end": "16:00:00"
+    }
+  },
+  {
+    "class": "手工皂DIY-C",
+    "spend_hours": "51",
+    "price": "3600",
+    "place": "嘉義市永利二街22號",
+    "date_start": "2021-03-06",
+    "date_end": "2021-06-26",
+    "recursive": {
+      "weekday": "星期六",
+      "start": "14:00:00",
+      "end": "17:00:00"
+    }
+  },
+  {
+    "class": "植物無菌繁殖的樂趣",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市世賢路四段164號中信房屋旁邊巷道進入",
+    "date_start": "2021-03-02",
+    "date_end": "2021-06-22",
+    "recursive": {
+      "weekday": "星期二",
+      "start": "14:00:00",
+      "end": "16:00:00"
+    }
+  },
+  {
+    "class": "創意樂團",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-04",
+    "date_end": "2021-06-24",
+    "recursive": {
+      "weekday": "星期四",
+      "start": "14:00:00",
+      "end": "16:00:00"
+    }
+  },
+  {
+    "class": "帶著陶笛去旅行入門",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-04",
+    "date_end": "2021-06-24",
+    "recursive": {
+      "weekday": "星期四",
+      "start": "14:00:00",
+      "end": "16:00:00"
+    }
+  },
+  {
+    "class": "花花視界-古流花藝",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市民生北路12號4樓2",
+    "date_start": "2021-03-03",
+    "date_end": "2021-06-23",
+    "recursive": {
+      "weekday": "星期三",
+      "start": "14:00:00",
+      "end": "16:00:00"
+    }
+  },
+  {
+    "class": "池坊花藝B",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-03",
+    "date_end": "2021-06-23",
+    "recursive": {
+      "weekday": "星期三",
+      "start": "14:00:00",
+      "end": "16:00:00"
+    }
+  },
+  {
+    "class": "國畫山水",
+    "spend_hours": "35",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-05",
+    "date_end": "2021-06-04",
+    "recursive": {
+      "weekday": "星期五",
+      "start": "14:00:00",
+      "end": "16:30:00"
+    }
+  },
+  {
+    "class": "隸書波磔之美",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-08",
+    "date_end": "2021-06-28",
+    "recursive": {
+      "weekday": "星期一",
+      "start": "14:00:00",
+      "end": "16:00:00"
+    }
+  },
+  {
+    "class": "悠彩生活-油畫中階4",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-03",
+    "date_end": "2021-06-23",
+    "recursive": {
+      "weekday": "星期三",
+      "start": "14:00:00",
+      "end": "16:00:00"
+    }
+  },
+  {
+    "class": "Q版漫畫趣味塗鴉",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-02",
+    "date_end": "2021-06-22",
+    "recursive": {
+      "weekday": "星期二",
+      "start": "14:00:00",
+      "end": "16:00:00"
+    }
+  },
+  {
+    "class": "池坊花藝C",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-04",
+    "date_end": "2021-06-24",
+    "recursive": {
+      "weekday": "星期四",
+      "start": "14:00:00",
+      "end": "16:00:00"
+    }
+  },
+  {
+    "class": "簡易木工B",
+    "spend_hours": "51",
+    "price": "3600",
+    "place": "嘉義市中山路616號",
+    "date_start": "2021-03-03",
+    "date_end": "2021-06-23",
+    "recursive": {
+      "weekday": "星期三",
+      "start": "14:00:00",
+      "end": "17:00:00"
+    }
+  },
+  {
+    "class": "快快樂樂學裁縫",
+    "spend_hours": "51",
+    "price": "3600",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-06",
+    "date_end": "2021-05-01",
+    "recursive": {
+      "weekday": "星期六",
+      "start": "14:00:00",
+      "end": "17:00:00"
+    }
+  },
+  {
+    "class": "心靈塗鴉、拼貼創作",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-04",
+    "date_end": "2021-06-24",
+    "recursive": {
+      "weekday": "星期四",
+      "start": "14:00:00",
+      "end": "16:00:00"
+    }
+  },
+  {
+    "class": "體雕DIY塑成班",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-02",
+    "date_end": "2021-06-22",
+    "recursive": {
+      "weekday": "星期二",
+      "start": "14:00:00",
+      "end": "16:00:00"
+    }
+  },
+  {
+    "class": "發酵釀造與堅果烘焙",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義縣水上鄉忠和村檳榔樹角6之6號",
+    "date_start": "2021-03-04",
+    "date_end": "2021-06-24",
+    "recursive": {
+      "weekday": "星期四",
+      "start": "14:00:00",
+      "end": "16:00:00"
+    }
+  },
+  {
+    "class": "自家焙煎咖啡中階",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市世賢路四段164號中信房屋旁邊巷道進入",
+    "date_start": "2021-03-06",
+    "date_end": "2021-06-05",
+    "recursive": {
+      "weekday": "星期六",
+      "start": "14:00:00",
+      "end": "16:30:00"
+    }
+  },
+  {
+    "class": "芳香療法保健班",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-02",
+    "date_end": "2021-06-22",
+    "recursive": {
+      "weekday": "星期二",
+      "start": "14:00:00",
+      "end": "16:00:00"
+    }
+  },
+  {
+    "class": "脈輪禪繞",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-04",
+    "date_end": "2021-06-24",
+    "recursive": {
+      "weekday": "星期四",
+      "start": "14:00:00",
+      "end": "16:00:00"
+    }
+  },
+  {
+    "class": "星光大道歌唱",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-02",
+    "date_end": "2021-06-22",
+    "recursive": {
+      "weekday": "星期二",
+      "start": "14:00:00",
+      "end": "16:00:00"
+    }
+  },
+  {
+    "class": "國台語金曲歌唱班A",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-03",
+    "date_end": "2021-06-23",
+    "recursive": {
+      "weekday": "星期三",
+      "start": "14:00:00",
+      "end": "16:00:00"
+    }
+  },
+  {
+    "class": "佛朗明歌基礎",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-04",
+    "date_end": "2021-06-24",
+    "recursive": {
+      "weekday": "星期四",
+      "start": "14:00:00",
+      "end": "16:00:00"
+    }
+  },
+  {
+    "class": "快樂學薩克斯風中階3",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-03",
+    "date_end": "2021-06-23",
+    "recursive": {
+      "weekday": "星期三",
+      "start": "14:00:00",
+      "end": "16:00:00"
+    }
+  },
+  {
+    "class": "快樂學薩克斯風中階1",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-08",
+    "date_end": "2021-06-28",
+    "recursive": {
+      "weekday": "星期一",
+      "start": "14:00:00",
+      "end": "16:00:00"
+    }
+  },
+  {
+    "class": "好玩的電子琴基礎3",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-08",
+    "date_end": "2021-06-28",
+    "recursive": {
+      "weekday": "星期一",
+      "start": "14:00:00",
+      "end": "16:00:00"
+    }
+  },
+  {
+    "class": "西洋金曲歌唱班",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-02",
+    "date_end": "2021-06-22",
+    "recursive": {
+      "weekday": "星期二",
+      "start": "14:00:00",
+      "end": "16:00:00"
+    }
+  },
+  {
+    "class": "胡奏飛揚-二胡基礎4",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-08",
+    "date_end": "2021-06-28",
+    "recursive": {
+      "weekday": "星期一",
+      "start": "14:00:00",
+      "end": "16:00:00"
+    }
+  },
+  {
+    "class": "MV流行舞蹈",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-05",
+    "date_end": "2021-06-25",
+    "recursive": {
+      "weekday": "星期五",
+      "start": "14:00:00",
+      "end": "16:00:00"
+    }
+  },
+  {
+    "class": "電吉他基礎",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-04",
+    "date_end": "2021-06-24",
+    "recursive": {
+      "weekday": "星期四",
+      "start": "14:00:00",
+      "end": "16:00:00"
+    }
+  },
+  {
+    "class": "手拍木箱鼓",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-05",
+    "date_end": "2021-06-25",
+    "recursive": {
+      "weekday": "星期五",
+      "start": "14:00:00",
+      "end": "16:00:00"
+    }
+  },
+  {
+    "class": "國標單人舞-恰恰",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-08",
+    "date_end": "2021-06-28",
+    "recursive": {
+      "weekday": "星期一",
+      "start": "14:00:00",
+      "end": "16:00:00"
+    }
+  },
+  {
+    "class": "美麗人聲歌唱班B",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-03",
+    "date_end": "2021-06-23",
+    "recursive": {
+      "weekday": "星期三",
+      "start": "14:30:00",
+      "end": "16:30:00"
+    }
+  },
+  {
+    "class": "快樂學小提琴基礎1",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-05",
+    "date_end": "2021-06-25",
+    "recursive": {
+      "weekday": "星期五",
+      "start": "14:30:00",
+      "end": "16:30:00"
+    }
+  },
+  {
+    "class": "活力太鼓B",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-06",
+    "date_end": "2021-06-26",
+    "recursive": {
+      "weekday": "星期六",
+      "start": "15:00:00",
+      "end": "17:00:00"
+    }
+  },
+  {
+    "class": "單人拉丁舞-捷舞",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-03",
+    "date_end": "2021-06-23",
+    "recursive": {
+      "weekday": "星期三",
+      "start": "15:00:00",
+      "end": "17:00:00"
+    }
+  },
+  {
+    "class": "生活日語初級4",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-04",
+    "date_end": "2021-06-03",
+    "recursive": {
+      "weekday": "星期四",
+      "start": "15:30:00",
+      "end": "17:30:00"
+    }
+  },
+  {
+    "class": "即學即用日語中級2",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-05",
+    "date_end": "2021-06-25",
+    "recursive": {
+      "weekday": "星期五",
+      "start": "15:30:00",
+      "end": "17:30:00"
+    }
+  },
+  {
+    "class": "快樂學薩克斯風基礎1",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-05",
+    "date_end": "2021-06-25",
+    "recursive": {
+      "weekday": "星期五",
+      "start": "15:30:00",
+      "end": "17:30:00"
+    }
+  },
+  {
+    "class": "薩克斯風F",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-03",
+    "date_end": "2021-06-23",
+    "recursive": {
+      "weekday": "星期三",
+      "start": "18:00:00",
+      "end": "20:00:00"
+    }
+  },
+  {
+    "class": "輕鬆學好韓語初級4",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-03",
+    "date_end": "2021-06-23",
+    "recursive": {
+      "weekday": "星期三",
+      "start": "18:30:00",
+      "end": "20:30:00"
+    }
+  },
+  {
+    "class": "輕鬆學好韓語初級3",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-04",
+    "date_end": "2021-06-24",
+    "recursive": {
+      "weekday": "星期四",
+      "start": "18:30:00",
+      "end": "20:30:00"
+    }
+  },
+  {
+    "class": "乾燥花之美進階",
+    "spend_hours": "35",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-03",
+    "date_end": "2021-06-02",
+    "recursive": {
+      "weekday": "星期三",
+      "start": "18:30:00",
+      "end": "21:00:00"
+    }
+  },
+  {
+    "class": "古典家具之榫接木工",
+    "spend_hours": "35",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-08",
+    "date_end": "2021-06-07",
+    "recursive": {
+      "weekday": "星期一",
+      "start": "18:30:00",
+      "end": "21:00:00"
+    }
+  },
+  {
+    "class": "投資理財致勝關鍵",
+    "spend_hours": "36",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-05",
+    "date_end": "2021-05-21",
+    "recursive": {
+      "weekday": "星期五",
+      "start": "18:40:00",
+      "end": "21:40:00"
+    }
+  },
+  {
+    "class": "生活陶藝A",
+    "spend_hours": "51",
+    "price": "3600",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-08",
+    "date_end": "2021-06-28",
+    "recursive": {
+      "weekday": "星期一",
+      "start": "18:50:00",
+      "end": "21:40:00"
+    }
+  },
+  {
+    "class": "戀上陶藝B",
+    "spend_hours": "51",
+    "price": "3600",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-05",
+    "date_end": "2021-06-25",
+    "recursive": {
+      "weekday": "星期五",
+      "start": "18:50:00",
+      "end": "21:40:00"
+    }
+  },
+  {
+    "class": "輕鬆成為古典音樂玩家",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-03",
+    "date_end": "2021-06-23",
+    "recursive": {
+      "weekday": "星期三",
+      "start": "19:00:00",
+      "end": "21:00:00"
+    }
+  },
+  {
+    "class": "越說越有趣-越南語進階",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-08",
+    "date_end": "2021-06-28",
+    "recursive": {
+      "weekday": "星期一",
+      "start": "19:00:00",
+      "end": "21:00:00"
+    }
+  },
+  {
+    "class": "茶心．茶修",
+    "spend_hours": "36",
+    "price": "2400",
+    "place": "嘉義縣中埔鄉仁義路96號",
+    "date_start": "2021-03-02",
+    "date_end": "2021-05-18",
+    "recursive": {
+      "weekday": "星期二",
+      "start": "19:00:00",
+      "end": "21:50:00"
+    }
+  },
+  {
+    "class": "日文中級",
+    "spend_hours": "35",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-03",
+    "date_end": "2021-06-02",
+    "recursive": {
+      "weekday": "星期三",
+      "start": "19:00:00",
+      "end": "21:30:00"
+    }
+  },
+  {
+    "class": "生活日語中級3",
+    "spend_hours": "35",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-05",
+    "date_end": "2021-06-04",
+    "recursive": {
+      "weekday": "星期五",
+      "start": "19:00:00",
+      "end": "21:30:00"
+    }
+  },
+  {
+    "class": "歡唱學日語",
+    "spend_hours": "35",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-04",
+    "date_end": "2021-06-03",
+    "recursive": {
+      "weekday": "星期四",
+      "start": "19:00:00",
+      "end": "21:30:00"
+    }
+  },
+  {
+    "class": "觀光自助生活日語",
+    "spend_hours": "35",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-02",
+    "date_end": "2021-06-01",
+    "recursive": {
+      "weekday": "星期二",
+      "start": "19:00:00",
+      "end": "21:30:00"
+    }
+  },
+  {
+    "class": "吃喝玩樂FUN英文",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-02",
+    "date_end": "2021-06-22",
+    "recursive": {
+      "weekday": "星期二",
+      "start": "19:00:00",
+      "end": "21:00:00"
+    }
+  },
+  {
+    "class": "觀光英語FUN鬆學2",
+    "spend_hours": "35",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-08",
+    "date_end": "2021-06-07",
+    "recursive": {
+      "weekday": "星期一",
+      "start": "19:00:00",
+      "end": "21:30:00"
+    }
+  },
+  {
+    "class": "法語輕鬆學進階",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-03",
+    "date_end": "2021-06-23",
+    "recursive": {
+      "weekday": "星期三",
+      "start": "19:00:00",
+      "end": "21:00:00"
+    }
+  },
+  {
+    "class": "越說越有趣-越南語初級2",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-02",
+    "date_end": "2021-06-22",
+    "recursive": {
+      "weekday": "星期二",
+      "start": "19:00:00",
+      "end": "21:00:00"
+    }
+  },
+  {
+    "class": "觀光英語FUN鬆學3",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-05",
+    "date_end": "2021-06-25",
+    "recursive": {
+      "weekday": "星期五",
+      "start": "19:00:00",
+      "end": "21:00:00"
+    }
+  },
+  {
+    "class": "生活易經中級",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-03",
+    "date_end": "2021-06-23",
+    "recursive": {
+      "weekday": "星期三",
+      "start": "19:00:00",
+      "end": "21:00:00"
+    }
+  },
+  {
+    "class": "法語輕鬆學初級",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-05",
+    "date_end": "2021-06-25",
+    "recursive": {
+      "weekday": "星期五",
+      "start": "19:00:00",
+      "end": "21:00:00"
+    }
+  },
+  {
+    "class": "生活易經初級",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-08",
+    "date_end": "2021-06-28",
+    "recursive": {
+      "weekday": "星期一",
+      "start": "19:00:00",
+      "end": "21:00:00"
+    }
+  },
+  {
+    "class": "越學越有趣-越南語初級1",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-05",
+    "date_end": "2021-06-25",
+    "recursive": {
+      "weekday": "星期五",
+      "start": "19:00:00",
+      "end": "21:00:00"
+    }
+  },
+  {
+    "class": "手工皂DIY-A",
+    "spend_hours": "51",
+    "price": "3600",
+    "place": "嘉義市永利二街22號",
+    "date_start": "2021-03-08",
+    "date_end": "2021-06-28",
+    "recursive": {
+      "weekday": "星期一",
+      "start": "19:00:00",
+      "end": "21:50:00"
+    }
+  },
+  {
+    "class": "諸羅青鳥",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-08",
+    "date_end": "2021-06-28",
+    "recursive": {
+      "weekday": "星期一",
+      "start": "19:00:00",
+      "end": "21:00:00"
+    }
+  },
+  {
+    "class": "烏克麗麗輕鬆彈唱基礎A",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-08",
+    "date_end": "2021-06-28",
+    "recursive": {
+      "weekday": "星期一",
+      "start": "19:00:00",
+      "end": "21:00:00"
+    }
+  },
+  {
+    "class": "烏克麗麗輕鬆彈唱中階",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-02",
+    "date_end": "2021-06-22",
+    "recursive": {
+      "weekday": "星期二",
+      "start": "19:00:00",
+      "end": "21:00:00"
+    }
+  },
+  {
+    "class": "帶著陶笛去旅行進階B",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-08",
+    "date_end": "2021-06-28",
+    "recursive": {
+      "weekday": "星期一",
+      "start": "19:00:00",
+      "end": "21:00:00"
+    }
+  },
+  {
+    "class": "愛樂陶笛中階",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-04",
+    "date_end": "2021-06-24",
+    "recursive": {
+      "weekday": "星期四",
+      "start": "19:00:00",
+      "end": "21:00:00"
+    }
+  },
+  {
+    "class": "攝影繪本",
+    "spend_hours": "51",
+    "price": "3600",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-03",
+    "date_end": "2021-06-23",
+    "recursive": {
+      "weekday": "星期三",
+      "start": "19:00:00",
+      "end": "21:40:00"
+    }
+  },
+  {
+    "class": "書法美學~行草基礎班",
+    "spend_hours": "51",
+    "price": "3600",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-02",
+    "date_end": "2021-06-22",
+    "recursive": {
+      "weekday": "星期二",
+      "start": "19:00:00",
+      "end": "21:50:00"
+    }
+  },
+  {
+    "class": "書法美學~隸書基礎班",
+    "spend_hours": "51",
+    "price": "3600",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-05",
+    "date_end": "2021-06-25",
+    "recursive": {
+      "weekday": "星期五",
+      "start": "19:00:00",
+      "end": "21:50:00"
+    }
+  },
+  {
+    "class": "傳統藝術木雕創作",
+    "spend_hours": "35",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-03",
+    "date_end": "2021-06-02",
+    "recursive": {
+      "weekday": "星期三",
+      "start": "19:00:00",
+      "end": "21:30:00"
+    }
+  },
+  {
+    "class": "古流花藝-基礎",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市永安街經國新城J甲棟1樓",
+    "date_start": "2021-03-05",
+    "date_end": "2021-06-25",
+    "recursive": {
+      "weekday": "星期五",
+      "start": "19:00:00",
+      "end": "21:00:00"
+    }
+  },
+  {
+    "class": "古流花藝-基礎",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市永安街經國新城J甲棟1樓",
+    "date_start": "2021-03-05",
+    "date_end": "2021-06-25",
+    "recursive": {
+      "weekday": "星期五",
+      "start": "19:00:00",
+      "end": "21:00:00"
+    }
+  },
+  {
+    "class": "烙畫藝術創作",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-04",
+    "date_end": "2021-06-24",
+    "recursive": {
+      "weekday": "星期四",
+      "start": "19:00:00",
+      "end": "21:00:00"
+    }
+  },
+  {
+    "class": "色鉛筆繪畫B",
+    "spend_hours": "51",
+    "price": "3600",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-08",
+    "date_end": "2021-06-28",
+    "recursive": {
+      "weekday": "星期一",
+      "start": "19:00:00",
+      "end": "21:50:00"
+    }
+  },
+  {
+    "class": "粉蠟筆繪畫",
+    "spend_hours": "51",
+    "price": "3600",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-02",
+    "date_end": "2021-06-22",
+    "recursive": {
+      "weekday": "星期二",
+      "start": "19:00:00",
+      "end": "21:50:00"
+    }
+  },
+  {
+    "class": "池坊花藝A",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-04",
+    "date_end": "2021-06-24",
+    "recursive": {
+      "weekday": "星期四",
+      "start": "19:00:00",
+      "end": "21:00:00"
+    }
+  },
+  {
+    "class": "創意玩水彩B",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-04",
+    "date_end": "2021-06-24",
+    "recursive": {
+      "weekday": "星期四",
+      "start": "19:00:00",
+      "end": "21:00:00"
+    }
+  },
+  {
+    "class": "小品盆景創作A",
+    "spend_hours": "51",
+    "price": "3600",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-08",
+    "date_end": "2021-06-28",
+    "recursive": {
+      "weekday": "星期一",
+      "start": "19:00:00",
+      "end": "21:50:00"
+    }
+  },
+  {
+    "class": "悠彩油畫初級班",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-05",
+    "date_end": "2021-06-25",
+    "recursive": {
+      "weekday": "星期五",
+      "start": "19:00:00",
+      "end": "21:00:00"
+    }
+  },
+  {
+    "class": "書法美學~篆書基礎班",
+    "spend_hours": "51",
+    "price": "3600",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-03",
+    "date_end": "2021-06-23",
+    "recursive": {
+      "weekday": "星期三",
+      "start": "19:00:00",
+      "end": "21:50:00"
+    }
+  },
+  {
+    "class": "水粉繪畫",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-05",
+    "date_end": "2021-06-25",
+    "recursive": {
+      "weekday": "星期五",
+      "start": "19:00:00",
+      "end": "21:00:00"
+    }
+  },
+  {
+    "class": "簡易木工D",
+    "spend_hours": "51",
+    "price": "3600",
+    "place": "嘉義市中山路616號",
+    "date_start": "2021-03-08",
+    "date_end": "2021-06-28",
+    "recursive": {
+      "weekday": "星期一",
+      "start": "19:00:00",
+      "end": "21:50:00"
+    }
+  },
+  {
+    "class": "木工榫接",
+    "spend_hours": "51",
+    "price": "3600",
+    "place": "嘉義市中山路616號",
+    "date_start": "2021-03-03",
+    "date_end": "2021-06-23",
+    "recursive": {
+      "weekday": "星期三",
+      "start": "19:00:00",
+      "end": "21:50:00"
+    }
+  },
+  {
+    "class": "手工木食器",
+    "spend_hours": "51",
+    "price": "3600",
+    "place": "嘉義市中山路616號",
+    "date_start": "2021-03-05",
+    "date_end": "2021-06-25",
+    "recursive": {
+      "weekday": "星期五",
+      "start": "19:00:00",
+      "end": "21:50:00"
+    }
+  },
+  {
+    "class": "美膚保養彩妝班",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-02",
+    "date_end": "2021-06-22",
+    "recursive": {
+      "weekday": "星期二",
+      "start": "19:00:00",
+      "end": "21:00:00"
+    }
+  },
+  {
+    "class": "美甲美睫熱蠟除毛入門",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-04",
+    "date_end": "2021-06-24",
+    "recursive": {
+      "weekday": "星期四",
+      "start": "19:00:00",
+      "end": "21:00:00"
+    }
+  },
+  {
+    "class": "經穴推拿養生保健基礎",
+    "spend_hours": "36",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-05",
+    "date_end": "2021-05-21",
+    "recursive": {
+      "weekday": "星期五",
+      "start": "19:00:00",
+      "end": "21:40:00"
+    }
+  },
+  {
+    "class": "楊家老架太極拳3A",
+    "spend_hours": "51",
+    "price": "3600",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-04",
+    "date_end": "2021-06-24",
+    "recursive": {
+      "weekday": "星期四",
+      "start": "19:00:00",
+      "end": "21:40:00"
+    }
+  },
+  {
+    "class": "綜合有氧舞蹈B",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-08",
+    "date_end": "2021-06-28",
+    "recursive": {
+      "weekday": "星期一",
+      "start": "19:00:00",
+      "end": "21:00:00"
+    }
+  },
+  {
+    "class": "桌球基礎A",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義縣水上鄉水上村中正路189號",
+    "date_start": "2021-03-02",
+    "date_end": "2021-06-22",
+    "recursive": {
+      "weekday": "星期二",
+      "start": "19:00:00",
+      "end": "21:00:00"
+    }
+  },
+  {
+    "class": "簡易基礎瑜珈",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-02",
+    "date_end": "2021-06-22",
+    "recursive": {
+      "weekday": "星期二",
+      "start": "19:00:00",
+      "end": "21:00:00"
+    }
+  },
+  {
+    "class": "日本武術居合道",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-05",
+    "date_end": "2021-06-25",
+    "recursive": {
+      "weekday": "星期五",
+      "start": "19:00:00",
+      "end": "21:00:00"
+    }
+  },
+  {
+    "class": "桌球進階班",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義縣水上鄉水上村中正路189號",
+    "date_start": "2021-03-03",
+    "date_end": "2021-06-23",
+    "recursive": {
+      "weekday": "星期三",
+      "start": "19:00:00",
+      "end": "21:00:00"
+    }
+  },
+  {
+    "class": "快樂的頌缽",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市東區中山路48號4F",
+    "date_start": "2021-03-02",
+    "date_end": "2021-06-22",
+    "recursive": {
+      "weekday": "星期二",
+      "start": "19:00:00",
+      "end": "21:00:00"
+    }
+  },
+  {
+    "class": "活力適能瑜珈",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-05",
+    "date_end": "2021-06-25",
+    "recursive": {
+      "weekday": "星期五",
+      "start": "19:00:00",
+      "end": "21:00:00"
+    }
+  },
+  {
+    "class": "小提琴-緣音重現(高階3)",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-04",
+    "date_end": "2021-06-24",
+    "recursive": {
+      "weekday": "星期四",
+      "start": "19:00:00",
+      "end": "21:00:00"
+    }
+  },
+  {
+    "class": "胡奏飛揚-二胡高階5",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-08",
+    "date_end": "2021-06-28",
+    "recursive": {
+      "weekday": "星期一",
+      "start": "19:00:00",
+      "end": "21:00:00"
+    }
+  },
+  {
+    "class": "國際標準舞",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-04",
+    "date_end": "2021-06-24",
+    "recursive": {
+      "weekday": "星期四",
+      "start": "19:00:00",
+      "end": "21:00:00"
+    }
+  },
+  {
+    "class": "戀練琴聲-二胡進階B班",
+    "spend_hours": "51",
+    "price": "3600",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-02",
+    "date_end": "2021-06-22",
+    "recursive": {
+      "weekday": "星期二",
+      "start": "19:00:00",
+      "end": "21:40:00"
+    }
+  },
+  {
+    "class": "輕鬆學電子琴高階1",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-02",
+    "date_end": "2021-06-22",
+    "recursive": {
+      "weekday": "星期二",
+      "start": "19:00:00",
+      "end": "21:00:00"
+    }
+  },
+  {
+    "class": "快樂學電子琴中階4",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-05",
+    "date_end": "2021-06-25",
+    "recursive": {
+      "weekday": "星期五",
+      "start": "19:00:00",
+      "end": "21:00:00"
+    }
+  },
+  {
+    "class": "快樂學電子琴中階1",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-08",
+    "date_end": "2021-06-28",
+    "recursive": {
+      "weekday": "星期一",
+      "start": "19:00:00",
+      "end": "21:00:00"
+    }
+  },
+  {
+    "class": "快樂學電子琴基礎2",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-03",
+    "date_end": "2021-06-23",
+    "recursive": {
+      "weekday": "星期三",
+      "start": "19:00:00",
+      "end": "21:00:00"
+    }
+  },
+  {
+    "class": "錚然玉聲-彈撥入門",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-04",
+    "date_end": "2021-06-24",
+    "recursive": {
+      "weekday": "星期四",
+      "start": "19:00:00",
+      "end": "21:00:00"
+    }
+  },
+  {
+    "class": "民謠吉他彈唱",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-02",
+    "date_end": "2021-06-22",
+    "recursive": {
+      "weekday": "星期二",
+      "start": "19:00:00",
+      "end": "21:00:00"
+    }
+  },
+  {
+    "class": "舞笛凝音~中國笛中階4",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-02",
+    "date_end": "2021-06-22",
+    "recursive": {
+      "weekday": "星期二",
+      "start": "19:00:00",
+      "end": "21:00:00"
+    }
+  },
+  {
+    "class": "快樂學薩克斯風中階4",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-03",
+    "date_end": "2021-06-23",
+    "recursive": {
+      "weekday": "星期三",
+      "start": "19:00:00",
+      "end": "21:00:00"
+    }
+  },
+  {
+    "class": "單人拉丁舞-倫巴",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-03",
+    "date_end": "2021-06-23",
+    "recursive": {
+      "weekday": "星期三",
+      "start": "19:00:00",
+      "end": "21:00:00"
+    }
+  },
+  {
+    "class": "箏愛一生A",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-04",
+    "date_end": "2021-06-24",
+    "recursive": {
+      "weekday": "星期四",
+      "start": "19:00:00",
+      "end": "21:00:00"
+    }
+  },
+  {
+    "class": "國台語金曲歌唱班B",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-04",
+    "date_end": "2021-06-24",
+    "recursive": {
+      "weekday": "星期四",
+      "start": "19:00:00",
+      "end": "21:00:00"
+    }
+  },
+  {
+    "class": "快樂學小提琴基礎3",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-02",
+    "date_end": "2021-06-22",
+    "recursive": {
+      "weekday": "星期二",
+      "start": "19:00:00",
+      "end": "21:00:00"
+    }
+  },
+  {
+    "class": "維納斯中東舞入門班",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市五顯街172號7樓2",
+    "date_start": "2021-03-08",
+    "date_end": "2021-06-28",
+    "recursive": {
+      "weekday": "星期一",
+      "start": "19:00:00",
+      "end": "21:00:00"
+    }
+  },
+  {
+    "class": "齊樂融融-絲竹合奏2",
+    "spend_hours": "51",
+    "price": "3600",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-05",
+    "date_end": "2021-06-25",
+    "recursive": {
+      "weekday": "星期五",
+      "start": "19:00:00",
+      "end": "21:50:00"
+    }
+  },
+  {
+    "class": "齊樂融融-絲竹合奏2",
+    "spend_hours": "51",
+    "price": "3600",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-05",
+    "date_end": "2021-06-25",
+    "recursive": {
+      "weekday": "星期五",
+      "start": "19:00:00",
+      "end": "21:50:00"
+    }
+  },
+  {
+    "class": "齊樂融融-絲竹合奏2",
+    "spend_hours": "51",
+    "price": "3600",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-05",
+    "date_end": "2021-06-25",
+    "recursive": {
+      "weekday": "星期五",
+      "start": "19:00:00",
+      "end": "21:50:00"
+    }
+  },
+  {
+    "class": "齊樂融融-絲竹合奏2",
+    "spend_hours": "51",
+    "price": "3600",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-05",
+    "date_end": "2021-06-25",
+    "recursive": {
+      "weekday": "星期五",
+      "start": "19:00:00",
+      "end": "21:50:00"
+    }
+  },
+  {
+    "class": "空靈天鼓基礎A",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-08",
+    "date_end": "2021-06-28",
+    "recursive": {
+      "weekday": "星期一",
+      "start": "19:00:00",
+      "end": "21:00:00"
+    }
+  },
+  {
+    "class": "網球基礎B",
+    "spend_hours": "35",
+    "price": "2400",
+    "place": "嘉義市大同路100號",
+    "date_start": "2021-03-05",
+    "date_end": "2021-06-04",
+    "recursive": {
+      "weekday": "星期五",
+      "start": "19:30:00",
+      "end": "22:00:00"
+    }
+  },
+  {
+    "class": "網球基礎A",
+    "spend_hours": "35",
+    "price": "2400",
+    "place": "嘉義市大同路100號",
+    "date_start": "2021-03-04",
+    "date_end": "2021-06-03",
+    "recursive": {
+      "weekday": "星期四",
+      "start": "19:30:00",
+      "end": "22:00:00"
+    }
+  },
+  {
+    "class": "網球中階A",
+    "spend_hours": "35",
+    "price": "2400",
+    "place": "嘉義市大同路100號",
+    "date_start": "2021-03-04",
+    "date_end": "2021-06-03",
+    "recursive": {
+      "weekday": "星期四",
+      "start": "19:30:00",
+      "end": "22:00:00"
+    }
+  },
+  {
+    "class": "網球中階B",
+    "spend_hours": "35",
+    "price": "2400",
+    "place": "嘉義市大同路100號",
+    "date_start": "2021-03-05",
+    "date_end": "2021-06-04",
+    "recursive": {
+      "weekday": "星期五",
+      "start": "19:30:00",
+      "end": "22:00:00"
+    }
+  },
+  {
+    "class": "舒心瑜珈",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義縣水上鄉柳林村1701號3樓",
+    "date_start": "2021-03-03",
+    "date_end": "2021-06-23",
+    "recursive": {
+      "weekday": "星期三",
+      "start": "19:30:00",
+      "end": "21:30:00"
+    }
+  },
+  {
+    "class": "就愛吹長笛",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-03",
+    "date_end": "2021-06-23",
+    "recursive": {
+      "weekday": "星期三",
+      "start": "19:30:00",
+      "end": "21:20:00"
+    }
+  },
+  {
+    "class": "薩克斯風基礎班",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-04",
+    "date_end": "2021-06-24",
+    "recursive": {
+      "weekday": "星期四",
+      "start": "19:30:00",
+      "end": "21:30:00"
+    }
+  },
+  {
+    "class": "薩克斯風E",
+    "spend_hours": "34",
+    "price": "2400",
+    "place": "嘉義市吳鳳南路94號",
+    "date_start": "2021-03-03",
+    "date_end": "2021-06-23",
+    "recursive": {
+      "weekday": "星期三",
+      "start": "20:00:00",
+      "end": "22:00:00"
+    }
+  }
+]
